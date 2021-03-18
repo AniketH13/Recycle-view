@@ -1,3 +1,3 @@
 # Recycle App
 ### App screenshot
-![](./FAB.png)
+![](./task2.png)
